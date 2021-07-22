@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import "./post.css";
-import DateTime from '../date/DateTime.js';
 
 export default function Post({img}) {
   return (

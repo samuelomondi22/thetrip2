@@ -5,14 +5,3 @@
     margin: 20px;
 }
 
-@media only screen and (max-width: 600px) {
-      .posts {
-          text-decoration: none;
-      }
-}
-
-@media only screen and (max-width: 768px) {
-    .posts{
-        text-decoration: none;
-    }
-}

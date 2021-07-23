@@ -8,8 +8,8 @@ export default function Post({img}) {
         <div className="w3-col 13 m6 w3-margin-bottom">
             <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">
-                    <Link to="/post/day1" className="link">
-                        Day One
+                    <Link to="/post/day2" className="link">
+                        Day Two
                     </Link>
                 </div>
                 <img

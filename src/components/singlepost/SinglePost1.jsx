@@ -1,4 +1,9 @@
 import "./singlePost.css";
+import BabaSteve from '../../images/rsz_babasteve.jpg';
+import Kid from '../../images/kids.jpg';
+import Kid2 from '../../images/kids2.jpg';
+import Kid3 from '../../images/kids3.jpg';
+import Game from '../../images/game.jpg';
 
 export default function SinglePost() {
   return (
@@ -17,18 +22,42 @@ export default function SinglePost() {
         </div>
         <p className="singlePostDesc">
           This is the start of an amazing trip. Our first adventure is a 400mile drive to Idaho. 
-          On our journey within Washington State we were to pass some amazing places.
-          On a long drive we not only got to see some cool stuff but also be able to learn some amazing stuff also. How about I share some with you :)
+          On our journey within Washington State, we were able to pass some amazing places. How about I share some with you! :)
           <br/>
-          One of the places was the Colombia and Snake rivers. 
-          We were able to see how these rivers has provided life to some of the driest places. 
+          <br/>
+          <img className="singleImg" src={BabaSteve} alt="Baba Steve ready for a trip"/>
+          <br/>
+          <br/>
+          One of the places that we passed by was the Colombia and Snake rivers. 
+          We were able to see how these rivers have been providing life to some of the driest places around Oregon. 
           What they've done is take water from the rivers and used it to irrigate the lands. 
-          Due to this most of the places appear green as ever in a hot area giving meaning to rose in the desert.
-          A lot of the farm lands are filled with barns, which are plants used mostly for making beer.
+          Due to this most of the places appear green as ever in a hot area giving meaning to a rose in the desert.
+          The area has turned green due to the farming that has been going around. The plantation that we saw the most was maize and harps.
+          Harps is actually used in the making of beer. They tend to grow in a V shape as they grow along a string.
           <br/>
           The  next interesting place we passed by was the Hanford Site. 
           Hanford Site was established in 1943 and the plutonium manufactured in this place was used for the building of the first nuclear 
-          bomb that was detonated at Nagasaki, Japan. 
+          bomb that was detonated at Nagasaki, Japan. Spectacular isn't it?
+          <br/>
+          <br/>
+          <img className="singleImg" src="https://media.spokesman.com/photos/2018/10/26/Nuclear_Workers_Demolition.JPG.jpg" alt="Hanford Site"/>
+          <br/>
+          <br/>
+          Meeting the most amazing people in Brian and Liz was a good way to end the day. Brian and Liz have an amazing family and spending the night with them felt like home.
+          We got an opportunity to play some games and read the scriptures with them. Being righteous is there goal as a family, and they show that you can still have fun and have righteousness be your number one goal.
+          We really enjoyed the evening with them. Amazing and loving best description for them.
+          <br/>
+          <br/>
+          <img className="singleImg" src={Kid} alt=""/>
+           <br/>
+          <br/>
+          <img className="singleImg" src={Kid2} alt=""/>
+           <br/>
+          <br/>
+          <img className="singleImg" src={Kid3} alt=""/>
+           <br/>
+          <br/>
+          <img className="singleImg" src={Game} alt=""/>
         </p>
       </div>
     </div>

@@ -1,10 +1,10 @@
-import SinglePost1 from "../singlepost/SinglePost1";
+import SinglePost2 from "../singlepost/SinglePost2";
 import "./single.css";
 
 export default function Single() {
   return (
     <div className="single">
-      <SinglePost1 />
+      <SinglePost2 />
     </div>
   );
 }

@@ -31,7 +31,6 @@
 
 @media only screen and (max-width: 600px) {
   .headerTitleLg {
-    /* position: absolute; */
     top: 20%;
     font-size: 40px;
   }
@@ -39,7 +38,6 @@
 
 @media only screen and (max-width: 768px) {
  .headerTitleLg {
-   /* position: absolute; */
    top: 20%;
    font-size: 40px;
  }

@@ -69,3 +69,22 @@
     object-fit: cover;
     border-radius: 7px;
 }
+
+@media only screen and (max-width: 600px) {
+    .postImg {
+        width: 100%;
+        height: auto;
+        /* object-fit: cover;
+        border-radius: 7px; */
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .postImg {
+        width: 100%;
+        height: auto;
+        /* object-fit: cover;
+        border-radius: 7px; */
+    }
+}
+

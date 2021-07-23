@@ -1,5 +1,5 @@
 
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "./post.css";
 
 export default function Post({img}) {
@@ -29,7 +29,9 @@ export default function Post({img}) {
         <div className="w3-col 13 m6 w3-margin-bottom">
             <div className="w3-display-container">
                 <div className="w3-display-topleft w3-black w3-padding">
-                    Summer House
+                    <Link to="/post/day1" className="link">
+                        Day One
+                    </Link>
                 </div>
                 <img
                 className="postImg"

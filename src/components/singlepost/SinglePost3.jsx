@@ -17,21 +17,24 @@ export default function SinglePost() {
         </div>
         <p className="singlePostDesc">
             Yes, today we did go through three states in a day. We started off at Idaho before passing through Montana and ending at Wyoming.
-            At Wyoming we got to spend most of our day in Yellowstone. #explain Yellowstone
+            At Wyoming we got to spend most of our day in Yellowstone. Yellowstone is a national park with unique hydrothermal and geologic wonders.
+            And a lot of people from around the world come to witnesses these wonders. We met a guy from South Africa and India.
 
             #image
 
-            We got to see the continental river #explain what it is
+            We got to see the continental divide #explain what it is
 
             #image
 
             On our way to old faithful we passed through #images and explain
 
-            At old faithful, were everyone comes to see the gyser, we were able to see a give or take 20feet gyser. Oh i am sorry :D so this a gyser.
+            At old faithful, were everyone comes to see the geyser, we were able to see a give or take 20feet geyser. Oh i am sorry :D so this a geyser.
 
             #image
 
-            #explain a gyser
+            #explain a geyser
+
+            #temple out of nowhere
         </p>
       </div>
     </div>

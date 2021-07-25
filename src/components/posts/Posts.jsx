@@ -2,10 +2,12 @@ import Post1 from "../post/Post1";
 import Post2 from "../post/Post2";
 import Post3 from "../post/Post3";
 import Post4 from "../post/Post4";
-import Post5 from '../post/Post5'
+import Post5 from '../post/Post5';
+import Post6 from '../post/Post6';
 import "./posts.css";
 import Familia from '../../images/familia2.jpg';
 import Flower from '../../images/flower.jpg';
+import K1 from '../../images/k1.jpg';
 
 
 export default function Posts() {
@@ -16,6 +18,7 @@ export default function Posts() {
       <Post3 img="https://pubs.usgs.gov/fs/2005/3024/images/fs2005-3024_fig_04.jpg"/>
       <Post4 img={Flower}/>
       <Post5 img="https://www-01.cruiseamerica.com/getattachment/96905f65-0704-4588-9fde-023da89f79d9/attachment.aspx"/>
+      <Post6 img={K1}/>
     </div>
   );
 }

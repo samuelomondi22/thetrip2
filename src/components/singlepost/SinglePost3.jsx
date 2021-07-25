@@ -42,17 +42,27 @@ export default function SinglePost() {
             <br/>
             <img className="singleImg" src={BabaSB} alt="Baba Steve and Brian"/>
             <br/>
+            <span className="imgPar">Baba Steve with Brian in front of the Fire Hole River</span>
+            <br/>
             <br/>
             <img className="singleImg" src={Brian} alt="Brian"/>
+            <br/>
+            <span className="imgPar">Brian overlooking hot spring</span>
             <br/>
             <br/>
             <img className="singleImg" src={MudP} alt="Mud Pot"/>
             <br/>
+            <span className="imgPar">Mud pot</span>
+            <br/>
             <br/>
             <img className="singleImg" src={Brian3} alt="Brian"/>
             <br/>
+            <span className="imgPar">Brian trying out a racoon hat</span>
+            <br/>
             <br/>
             <img className="singleImg" src={Brian4} alt="Brian"/>
+            <br/>
+            <span className="imgPar">Brian got bored :D</span>
             <br/>
             <br/>
             At Old Faithful, we were able to see about a 130 feet geyser. A geyser is a hot spring in which water boils,sending a tall water and steam into the air. They tend to be about 105-184 feet in height.
@@ -64,20 +74,32 @@ export default function SinglePost() {
              <br/>
             <img className="singleImg" src={Brian1} alt="Brian"/>
             <br/>
+            <span className="imgPar">Brian infront of FireHole River</span>
+            <br/>
             <br/>
             <img className="singleImg" src={BBS} alt="Baba Steve"/>
+            <br/>
+            <span className="imgPar">Baba Steve infront of FireHole River</span>
             <br/>
             <br/>
             <img className="singleImg" src={Sam} alt="Samuel"/>
             <br/>
+            <span className="imgPar">Samuel infront of FireHole River</span>
+            <br/>
             <br/>
             <img className="singleImg" src={SmallG} alt="Brian"/>
+            <br/>
+            <span className="imgPar">Geyser</span>
             <br/>
             <br/>
             <img className="singleImg" src={Familia3} alt="Familia"/>
             <br/>
+            <span className="imgPar">Brian, Baba Steve and Samuel</span>
+            <br/>
             <br/>
             <img className="singleImg" src={Sam1} alt="Samuel"/>
+            <br/>
+            <span className="imgPar">Samuel trying out the racoon hat</span>
             <br/>
             <br/>
             At the evening we toured a fish hatchery. A fish hatchery is a place for artificial breeding, hatching and rearing of fish. We saw eye eggs - fertilized egg with the eye 
@@ -86,14 +108,18 @@ export default function SinglePost() {
             <br/>
             <img className="singleImg" src={Fish} alt="Fish Hatchery"/>
             <br/>
-            Fish Hatchery Spots
+            <span className="imgPar">Fish Hatchery</span>
+            <br/>
             <br/>
             <img className="singleImg" src={Buffalo} alt="Buffalos"/>
+            <br/>
+            <span className="imgPar">Buffalos in the fields</span>
             <br/>
             <br/>
             <img className="singleImg" src={Teton} alt="Grand Tetons"/>
             <br/>
-            That is the Grand Tetons
+            <span className="imgPar">Baba Steve and the Grand Teton behind him</span>
+            <br/>
         </p>
       </div>
     </div>

@@ -27,6 +27,8 @@ export default function SinglePost() {
           <br/>
           <img className="singleImg" src={BabaSteve} alt="Baba Steve ready for a trip"/>
           <br/>
+          <span className="imgPar">Filling up to start the journey</span>
+          <br/>
           <br/>
           One of the places that we passed by was the Colombia and Snake rivers. 
           We were able to see how these rivers have been providing life to some of the driest places around Oregon. 
@@ -42,6 +44,8 @@ export default function SinglePost() {
           <br/>
           <img className="singleImg" src="https://media.spokesman.com/photos/2018/10/26/Nuclear_Workers_Demolition.JPG.jpg" alt="Hanford Site"/>
           <br/>
+          <span className="imgPar">Hanford Site</span>
+          <br/>
           <br/>
           Meeting the most amazing people in Brian and Liz was a good way to end the day. Brian and Liz have an friendly family and spending the night with them felt like home.
           We got an opportunity to play some games and read the scriptures with them. Being righteous is their goal as a family, and they show that you can still have fun and have righteousness be your number one goal.
@@ -49,15 +53,24 @@ export default function SinglePost() {
           <br/>
           <br/>
           <img className="singleImg" src={Kid} alt="Teaching the kids"/>
-           <br/>
+          <br/>
+           <span className="imgPar">Baba Steve reading stories with the kids</span>
+          <br/>
           <br/>
           <img className="singleImg" src={Kid2} alt="Teaching the kids"/>
-           <br/>
+          <br/>
+          <span className="imgPar">Samuel reading to the kids</span>
+          <br/>
           <br/>
           <img className="singleImg" src={Kid3} alt="Teaching the kids"/>
-           <br/>
+          <br/>
+          <span className="imgPar">Baba Steve having a selfie moment</span>
+          <br/>
           <br/>
           <img className="singleImg" src={Game} alt="Playing games"/>
+          <br/>
+          <span className="imgPar">Playing games with the kids before bed</span>
+          <br/>
         </p>
       </div>
     </div>

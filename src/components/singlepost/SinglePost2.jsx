@@ -29,6 +29,8 @@ export default function SinglePost() {
             <br/>
             <img className="singleImg" src={Kiddo} alt="Saying goodbye to the kids"/>
             <br/>
+            <span className="imgPar">Saying goodbye to the kids</span>
+            <br/>
             <br/>
 
             On our way to Rexburg we passed through the 'Craters of the Moon'. 
@@ -41,8 +43,12 @@ export default function SinglePost() {
             <br/>
             <img className="singleImg" src={Lava} alt="Lava rocks"/>
             <br/>
+            <span className="imgPar">Lava, the one that looks like rocks</span>
+            <br/>
             <br/>
             <img className="singleImg" src={Lava2} alt="Lava rocks"/>
+            <br/>
+            <span className="imgPar">Samuel right in front of bigger lava</span>
             <br/>
             <br/>
 
@@ -51,14 +57,14 @@ export default function SinglePost() {
             He does bring a joyous spirit. 
             It was awesome seeing him doing well and healthy.
             <br/>
-            <br/>
-
             Afterwards, we got together with Tyler, Garrett and Ryan. Tyler and Ryan study Mechanical Engineering while Garrett studies Computer Engineering.
             We got to talk about school and life. They enjoy the majors they are doing and it was great spending time with them. Ryan is a part time national guard 
             and he loves it. You could see from how he talked about that it was something he loves.
             <br/>
             <br/>
             <img className="singleImg" src={Panda} alt="Tyler, Ryan, Garrett"/>
+            <br/>
+            <span className="imgPar">Samuel,Baba Steve, Garrett, Tyler, Ryan, Brian at Panda Express</span>
             <br/>
             <br/>
             That concluded the end of Day Two for us and it has been fun so far :)

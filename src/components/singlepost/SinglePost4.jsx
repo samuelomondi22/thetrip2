@@ -1,5 +1,5 @@
 import "./singlePost.css";
-import Flower from '../../images/flower.jpg';
+import Y from '../../images/y.jpg';
 
 export default function SinglePost() {
   return (
@@ -7,7 +7,7 @@ export default function SinglePost() {
       <div className="singlePostWrapper">
         <img
           className="singlePostImg"
-          src={Flower}
+          src={Y}
           alt=""
         />
         <h1 className="singlePostTitle">

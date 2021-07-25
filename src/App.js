@@ -5,6 +5,7 @@ import Single from './components/single/Single.jsx';
 import Single2 from './components/single/Single2.jsx';
 import Single3 from './components/single/Single3.jsx';
 import Single4 from './components/single/Single4.jsx';
+import Single5 from './components/single/Single5.jsx';
 
 function App() {
   return (
@@ -22,8 +23,11 @@ function App() {
         <Route path="/post/day3">
           <Single3 />
         </Route>
-           <Route path="/post/day4">
+        <Route path="/post/day4">
           <Single4 />
+        </Route>
+        <Route path="/post/day5">
+          <Single5 />
         </Route>
       </Switch>
     </Router>

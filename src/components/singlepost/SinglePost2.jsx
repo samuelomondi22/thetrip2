@@ -53,12 +53,12 @@ export default function SinglePost() {
             <br/>
             <br/>
 
-            Afterwards, we got together with Taylor, Garret and Ryan. Taylor and Ryan study Mechanical Engineering while Garret studies Computer Engineering.
+            Afterwards, we got together with Tyler, Garrett and Ryan. Taylor and Ryan study Mechanical Engineering while Garret studies Computer Engineering.
             We got to talk about school and life. They enjoy the majors they are doing and it was great spending time with them. Ryan is a part time national guard 
             and he loves it. You could see from how he talked about that it was something he loves.
             <br/>
             <br/>
-            <img className="singleImg" src={Panda} alt="Taylor, Ryan, Garret"/>
+            <img className="singleImg" src={Panda} alt="Tyler, Ryan, Garrett"/>
             <br/>
             <br/>
             That concluded the end of Day Two for us and it has been fun so far :)

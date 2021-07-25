@@ -18,7 +18,7 @@ export default function SinglePost() {
         </div>
         <p className="singlePostDesc">
             We started the day at the best hotel we’ve stayed in. Brian especially liked the rustic, aged wood motif. 
-            And it was just a stone’s throw from the temple I’m Afton, WY. 
+            And it was just a stone’s throw from the temple in Afton, WY. 
             (Didn’t even know such a small town had a temple!)
             <br/>
             The drive through Wyoming was nice. It’s all 5 or 6 or 7 thousand feet up! 
@@ -33,27 +33,21 @@ export default function SinglePost() {
             Then we thought of the Taste of India. But it was closed too. So we bounced to Holy Smokes, a BBQ place.
              Samuel tried the fried okra, but he didn’t finish it. 😳   But the brisket was nice. 
             <br/>
-            Jeff told us if his 6.5 acres he has recently bought near Logan. 
-            Just bare ground now, but he plans!  House building and terracing and septic system and
-             all that stuff that young people have the energy for. Good luck to him!
+            Jeff told us of his 6.5 acres he has recently bought near Logan. 
+            Just bare ground now, but he has plans!  House building and terracing and septic system and
+             all that stuff that young people have the energy for. We were all excited for him. Good luck to him! 
             <br/>
             We thought about jumping in the Great Salt Lake, but we ran out of time. 
-
-<br/>
-
-We stopped by Provo to see the BYU campus. Everything was closed because the 23rd is close to the 24th, and that’s a big holiday in Utah. So we drive around and noticed how many flowers they have planted. It really pretty!  And then we drove by the MTC for a look. The nice lady told us to go away. 😊
-
-<br/>
-
-Brian drove most of the 5 hours to Kanab. Steve gave him timely advice on how to improve his skills. 
-
-
-<br/>
-To cap the day off, Brian and Samuel spent an hour in the pool. The big guy took the opportunity to start his beauty rest. 
-
-
-
-
+            <br/>
+            We stopped by Provo to see the BYU campus. 
+            Everything was closed because the 23rd is close to the 24th, and that’s a big holiday in Utah. 
+            So we drove around and noticed how many flowers they have planted. It's really pretty!  
+            And then we drove by the MTC for a look. The nice lady told us to go away. 😊
+            <br/>
+            Brian drove most of the 5 hours to Kanab. Steve gave him timely advice on how to improve his skills. 
+            <br/>
+            To cap the day off, Brian and Samuel spent an hour in the pool. 
+            The big guy took the opportunity to start his beauty rest. 
         </p>
       </div>
     </div>

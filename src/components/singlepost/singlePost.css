@@ -79,14 +79,16 @@
 
 @media only screen and (max-width: 600px) {
     .imgPar {
-        width: 334px;
-        height: auto;
+         width: auto;
+         max-width: 100%;
+         height: auto;
     }
 }
 
 @media only screen and (max-width: 768px) {
     .imgPar {
-        width: 334px;
+        width: auto;
+        max-width: 100%;
         height: auto;
     }
 }

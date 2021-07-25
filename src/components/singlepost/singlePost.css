@@ -76,3 +76,17 @@
     font-weight: bold;
     font-family:'Courier New', Courier, monospace;
 }
+
+@media only screen and (max-width: 600px) {
+    .imgPar {
+        width: 334px;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .imgPar {
+        width: 334px;
+        height: auto;
+    }
+}

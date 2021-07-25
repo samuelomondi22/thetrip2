@@ -62,7 +62,7 @@ export default function SinglePost() {
             <span className="imgPar">Brian and Baba Steve on one of the rocks</span>
             <br/>
             We drove on a bridge across the Colorado River and we were amazed by the depth of it. 
-            The Colorado River is a 1,450-mile-long(2,330km). It encompasses parts of seven US states and two Mexican states.
+            The Colorado River is 1,450-mile-long(2,330km). It encompasses parts of seven US states and two Mexican states.
             It is a long river.
             We saw signs that said don’t jump on the bridge and we made a joke out of it. 
             <br/>
@@ -95,8 +95,8 @@ export default function SinglePost() {
             <br/>
             <br/>
             We left the Grand Canyon and drove to Benson in Arizona where we spent the night. 
-            On our way there we had a heavy downpour and Brian was glad he was not driving at the time it started to rain. 
-            Because of the rain, we talked about hydroplaning. hydroplaning is when a vehicle starts sliding uncontrollably due to the tires encountering
+            On our way there we had a heavy downpour and Brian was glad he was not driving at the time it started raining. 
+            Because of the rain, we talked about hydroplaning. Hydroplaning is when a vehicle starts sliding uncontrollably due to the tires encountering
             more water than the treads can displace. As you can guess it is common when it rains a lot hence extra careful when driving. 
             By the time we got to Benson, we had covered 2200 miles of the trip. 55% of the trip done.
         </p>

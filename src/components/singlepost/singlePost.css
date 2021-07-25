@@ -79,7 +79,7 @@
 
 @media only screen and (max-width: 600px) {
     .singleImg {
-         width: 70%;
+         width: 90%;
          /* max-width: 100%; */
          height: auto;
     }
@@ -87,7 +87,7 @@
 
 @media only screen and (max-width: 768px) {
     .singleImg {
-        width: 70%;
+        width: 90%;
         /* max-width: 100%; */
         height: auto;
     }

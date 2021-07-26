@@ -25,7 +25,7 @@ export default function SinglePost() {
         </div>
         <p className="singlePostDesc">
             For a drought season it does seem to rain a lot. We woke up to the blessing of rain that seem to dry off pretty quick when the rain stops,
-            thou some places still feel the effect of the rain.
+            though some places still feel the effect of the rain.
             <br/>
             <br/>   
             <img className="singleImg" src={Flood} alt="Flooding"/>
@@ -33,19 +33,19 @@ export default function SinglePost() {
             <span className="imgPar">Water flood on the road</span>
             <br/>
             <br/>
-            We were on a chase to make the Kartchner Carven. With breakfast on the go we set forth to the carven.
-            Rain gushing down on us, it took us less than 30 min drive and long behold we were staring at the Kartchner Carven entrance sign. 
+            We were on a chase to make the Kartchner Cavern. With breakfast on the go we set forth to the Cavern.
+            Rain gushing down on us, it took us less than 30 min drive and long behold we were staring at the Kartchner Cavern entrance sign. 
             <br/>
             Due to a lot of regulations we were not allowed to bring our mobile phones as we went through the caves. Despite not taking pictures we learnt a lot about 
-            the beginning of Kartchner Carven. A shallow inland sea covered the area 330 million years ago, depositing layers of sediment and fossils that eventually hardened into limestone.
+            the beginning of Kartchner Cavern. A shallow inland sea covered the area 330 million years ago, depositing layers of sediment and fossils that eventually hardened into limestone.
             The limit with time uplifted to form mountains. However, a block of the limestone and other associated rocks was dropped down via a fault thousands of feet below
             the peaks of the mountain above. Kartchner Carvens eventually formed in this down dropped block of limestone. Rainwater, made slightly acidic by absorbing carbon dioxide 
             from the air and soil, penetrated cracks in the down dropped limestone block, mixed with ground water, and slowly dissolved rooms and passages. 
             <br/>
             <br/>   
-            <img className="singleImg" src="https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/6/44/644a6940-cd7c-11e8-b820-4b60ab8d7878/5bbf8a853354d.image.png?resize=1200%2C677" alt="Kartchner Carven"/>
+            <img className="singleImg" src="https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/6/44/644a6940-cd7c-11e8-b820-4b60ab8d7878/5bbf8a853354d.image.png?resize=1200%2C677" alt="Kartchner Cavern"/>
             <br/>      
-            <span className="imgPar">Kartchner Carven picture from the internet</span>
+            <span className="imgPar">Kartchner Cavern picture from the internet</span>
             <br/>
             <br/>
             After the drive we set on a journey to Las Vegas. Along the way we saw dozens of Joshua trees. Basically a giant type cactus tree.

@@ -64,7 +64,7 @@ export default function SinglePost() {
             We drove on a bridge across the Colorado River and we were amazed by the depth of it. 
             The Colorado River is 1,450-mile-long(2,330km). It encompasses parts of seven US states and two Mexican states.
             It is a long river.
-            We saw signs that said don’t jump on the bridge and we made a joke out of it. 
+            We saw signs that said don’t jump from the bridge and we made a joke out of it. 
             <br/>
             <br/>
             <img className="singleImg" src={Colorado} alt="Colorado river"/>

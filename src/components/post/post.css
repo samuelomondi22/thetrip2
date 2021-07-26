@@ -72,15 +72,15 @@
 
 @media only screen and (max-width: 600px) {
     .postImg {
-        width: 100%;
-        height: auto;
+        width: 385px;
+        height: 250px;
     }
 }
 
 @media only screen and (max-width: 768px) {
     .postImg {
-        width: 100%;
-        height: auto;
+        width: 385px;
+        height: 250px;
     }
 }
 

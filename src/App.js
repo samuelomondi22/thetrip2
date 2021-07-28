@@ -7,6 +7,8 @@ import Single3 from './components/single/Single3.jsx';
 import Single4 from './components/single/Single4.jsx';
 import Single5 from './components/single/Single5.jsx';
 import Single6 from './components/single/Sinigle6.jsx';
+import Single7 from './components/single/Single7.jsx';
+import Single8 from './components/single/Single8.jsx';
 
 function App() {
   return (
@@ -32,6 +34,12 @@ function App() {
         </Route>
         <Route path="/post/day6">
           <Single6 />
+        </Route>
+        <Route path="/post/day7">
+          <Single7 />
+        </Route>
+        <Route path="/post/day8">
+          <Single8 />
         </Route>
       </Switch>
     </Router>

@@ -4,11 +4,14 @@ import Post3 from "../post/Post3";
 import Post4 from "../post/Post4";
 import Post5 from '../post/Post5';
 import Post6 from '../post/Post6';
+import Post7 from '../post/Post7';
+import Post8 from '../post/Post8';
 import "./posts.css";
 import Familia from '../../images/familia2.jpg';
 import Flower from '../../images/flower.jpg';
 import K1 from '../../images/k1.jpg';
-
+import Cali from '../../images/cali.jpg';
+import Beach from '../../images/beach.jpg';
 
 export default function Posts() {
   return (
@@ -19,6 +22,8 @@ export default function Posts() {
       <Post4 img={Flower}/>
       <Post5 img="https://www-01.cruiseamerica.com/getattachment/96905f65-0704-4588-9fde-023da89f79d9/attachment.aspx"/>
       <Post6 img={K1}/>
+      <Post7 img={Cali}/>
+      <Post8 img={Beach}/>
     </div>
   );
 }

@@ -39,7 +39,7 @@ export default function SinglePost() {
             Due to a lot of regulations we were not allowed to bring our mobile phones as we went through the caves. Despite not taking pictures we learnt a lot about 
             the beginning of Kartchner Cavern. A shallow inland sea covered the area 330 million years ago, depositing layers of sediment and fossils that eventually hardened into limestone.
             The limit with time uplifted to form mountains. However, a block of the limestone and other associated rocks was dropped down via a fault thousands of feet below
-            the peaks of the mountain above. Kartchner Carvens eventually formed in this down dropped block of limestone. Rainwater, made slightly acidic by absorbing carbon dioxide 
+            the peaks of the mountain above. Kartchner Caverns eventually formed in this down dropped block of limestone. Rainwater, made slightly acidic by absorbing carbon dioxide 
             from the air and soil, penetrated cracks in the down dropped limestone block, mixed with ground water, and slowly dissolved rooms and passages. 
             <br/>
             <br/>   

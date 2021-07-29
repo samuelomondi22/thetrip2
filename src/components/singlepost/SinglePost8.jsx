@@ -23,8 +23,11 @@ export default function SinglePost() {
             After maneuvering the roads trying not to get in an accident cause the locals be driving recklessly,
              we made it to huntington beach. 
             We had fun body boarding. Brian got a good wave that pushed him about 30 feet to the shore. 
-            Steve took this opportunity to get a nap on the beach :D
             The waves were about 5 feet. 
+            Steve took this opportunity to get a nap on the beach. It's funny how the young guys want to run and splash in the waves
+            ,but the old guy thinks a nap on the warm sand is more enjoyable!
+            And it was nice. A bit of an onshore breeze, some warm sun, soft sand, a huge towel, and he was relaxing for
+            an hour. So nice!
             We got to play soccer afterwards with some friends we met at the beach. Just having fun. 
             We then walked around the beach seeing what’s nice and buying some things along the way. 
             <br/>

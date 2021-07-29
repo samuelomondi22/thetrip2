@@ -1,5 +1,10 @@
 import "./singlePost.css";
-import Beach from '../../images/beach1.jpg';
+import Art from '../../images/art.jpeg';
+import P from '../../images/p.jpg';
+import P1 from '../../images/p1.jpg';
+import P2 from '../../images/p2.jpg';
+import P3 from '../../images/p3.jpg';
+import P4 from '../../images/p4.jpg';
 
 export default function SinglePost() {
   return (
@@ -7,7 +12,7 @@ export default function SinglePost() {
       <div className="singlePostWrapper">
         <img
           className="singlePostImg"
-          src={Beach}
+          src={Art}
           alt=""
         />
         <h1 className="singlePostTitle">
@@ -23,13 +28,28 @@ export default function SinglePost() {
       Steve was not willing to part with his pocket knife. 
       So, we decided to move on to our next adventure - The
       In-N-Out close to the LAX Airport.
+       <br/>
+        <br/>
+        <img className="singleImg" src={P1} alt="Pier"/>
+        <br/>
       We had milkshakes as we enjoyed the view of planes taking off and landing really close to where we were.
-      <br/> 
+      <br/>
+        <br/>
+        <img className="singleImg" src={P4} alt="Baba Steve"/>
+        <br/>
       It was really nice to see the planes and talk about the mechanics behind the way they fly and land. 
       More specifically we talked a lot about the flaps on the plane and their role in making the planes land and take off. 
       <br/>
       Our next experience was at The Getty Villa Museum. 
-      It is a great place to learn about and experience Greek and Roman art. 
+      <br/>
+        <br/>
+        <img className="singleImg" src={P2} alt="Baba Steve"/>
+        <br/>
+      It is a great place to learn about and experience Greek and Roman art.
+       <br/>
+        <br/>
+        <img className="singleImg" src={P3} alt="Baba Steve and Brian"/>
+        <br/> 
       One can envision themselves in the great civilization of the Romans and let their imagination wander into the daily lives of the ancients 
       of civilization. 
       <br/>
@@ -37,6 +57,10 @@ export default function SinglePost() {
       and swam in the ocean. 
       At the ocean, we met a preacher who was sharing the gospel in a crowded recreational place. 
       That was good to see and it was nice listening to him and getting his perspective of the gospel of Jesus Christ. 
+        <br/>
+        <br/>
+        <img className="singleImg" src={P} alt="Pier"/>
+        <br/>
       By the time we were done at the Pier, we were tired and ready to go back to the hotel room and call it a night.
         </p>
       </div>

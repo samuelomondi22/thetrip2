@@ -6,12 +6,14 @@ import Post5 from '../post/Post5';
 import Post6 from '../post/Post6';
 import Post7 from '../post/Post7';
 import Post8 from '../post/Post8';
+import Post9 from '../post/Post9';
 import "./posts.css";
 import Familia from '../../images/familia2.jpg';
 import Flower from '../../images/flower.jpg';
 import K1 from '../../images/k1.jpg';
 import Cali from '../../images/cali.jpg';
 import Beach from '../../images/beach.jpg';
+import In from '../../images/inout.jpg';
 
 export default function Posts() {
   return (
@@ -24,6 +26,7 @@ export default function Posts() {
       <Post6 img={K1}/>
       <Post7 img={Cali}/>
       <Post8 img={Beach}/>
+      <Post9 img={In}/>
     </div>
   );
 }

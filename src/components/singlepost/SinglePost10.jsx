@@ -37,7 +37,7 @@ export default function SinglePost() {
             <br/>
             <img className="singleImg" src={Tree1} alt="Brian in front of the general sherman"/>
             <br/>
-            With the temperature almost at the 90 degrees F () we finished the night with the most amazing meal - Tilapia. 
+            With the temperature almost at the 90 degrees F (32 degrees C) we finished the night with the most amazing meal - Tilapia. 
             For Samuel and Brian it brought back the memories of home, so they were happy to have it.
              <br/>
             <br/>

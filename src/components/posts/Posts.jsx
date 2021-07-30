@@ -7,6 +7,7 @@ import Post6 from '../post/Post6';
 import Post7 from '../post/Post7';
 import Post8 from '../post/Post8';
 import Post9 from '../post/Post9';
+import Post10 from '../post/Post10';
 import "./posts.css";
 import Familia from '../../images/familia2.jpg';
 import Flower from '../../images/flower.jpg';
@@ -14,6 +15,7 @@ import K1 from '../../images/k1.jpg';
 import Cali from '../../images/cali.jpg';
 import Beach from '../../images/beach.jpg';
 import In from '../../images/inout.jpg';
+import Tree from '../../images/tree.jpg';
 
 export default function Posts() {
   return (
@@ -27,6 +29,7 @@ export default function Posts() {
       <Post7 img={Cali}/>
       <Post8 img={Beach}/>
       <Post9 img={In}/>
+      <Post10 img={Tree}/>
     </div>
   );
 }

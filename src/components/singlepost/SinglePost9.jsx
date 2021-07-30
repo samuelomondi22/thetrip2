@@ -5,6 +5,8 @@ import P1 from '../../images/p1.jpg';
 import P2 from '../../images/p2.jpg';
 import P3 from '../../images/p3.jpg';
 import P4 from '../../images/p4.jpg';
+import Pier from '../../images/r.jpg';
+import Nap from '../../images/r1.jpg';
 
 export default function SinglePost() {
   return (
@@ -55,11 +57,18 @@ export default function SinglePost() {
       <br/>
       Our next stop was at Santa Monica. We visited the Pier. Steve took a nap at the beach while Sam and Brian played soccer at the beach 
       and swam in the ocean. 
+       <br/>
+        <br/>
+        <img className="singleImg" src={Nap} alt="Baba Steve taking a nap"/>
+        <br/>
       At the ocean, we met a preacher who was sharing the gospel in a crowded recreational place. 
       That was good to see and it was nice listening to him and getting his perspective of the gospel of Jesus Christ. 
         <br/>
         <br/>
         <img className="singleImg" src={P} alt="Pier"/>
+        <br/>
+        <br/>
+        <img className="singleImg" src={Pier} alt="Pier"/>
         <br/>
       By the time we were done at the Pier, we were tired and ready to go back to the hotel room and call it a night.
         </p>

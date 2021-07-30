@@ -10,6 +10,7 @@ import Single6 from './components/single/Sinigle6.jsx';
 import Single7 from './components/single/Single7.jsx';
 import Single8 from './components/single/Single8.jsx';
 import Single9 from './components/single/Single9.jsx';
+import Single10 from './components/single/Single10.jsx';
 
 function App() {
   return (
@@ -44,6 +45,9 @@ function App() {
         </Route>
         <Route path="/post/day9">
           <Single9 />
+        </Route>
+        <Route path="/post/day10">
+          <Single10 />
         </Route>
       </Switch>
     </Router>
